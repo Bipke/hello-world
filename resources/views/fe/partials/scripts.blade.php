@@ -1,0 +1,16 @@
+<script src="/fe/js/jquery-3.2.1.min.js"></script>
+<script src="/fe/js/nprogress.js"></script>
+<script src="/fe/js/perfect-scrollbar.min.js"></script>
+<script src="/fe/js/bootstrap.bundle.min.js"></script>
+<script src="/fe/js/swiper.min.js"></script>
+<script src="/fe/js/tilt.jquery.min.js"></script>
+<script src="/fe/js/imagesloaded.pkgd.min.js"></script>
+<script src="/fe/js/jquery.shuffle.min.js"></script>
+<script src="/fe/js/photoswipe.min.js"></script>
+<script src="/fe/js/photoswipe-ui-default.js"></script>
+<script src="/fe/js/validator.min.js"></script>
+<script src="/fe/js/form-scripts.js"></script>
+<script src="/fe/js/circle-progress.min.js"></script>
+<script src="/fe/js/pjax.min.js"></script>
+<script src="/fe/js/share.js"></script>
+<script src="/fe/js/main.js"></script>>
