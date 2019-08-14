@@ -5,7 +5,7 @@
     <meta name="author" content="">
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/ico" href="favicon.png">
+    <link rel="icon" type="image/ico" href="/fe/image/favicon.png">
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="/fe/css/nprogress.css" />
     <link rel="stylesheet" type="text/css" href="/fe/css/bootstrap.min.css" />

@@ -17,7 +17,7 @@
         <div class="home-content p_scroll">
             <!-- LOGO -->
             <div class="logo">
-                <a href="home.html"><img src="assets/img/logo.svg" alt="logo"></a>
+                <a href="home.html"><img src="/fe/image/logo.svg" alt="logo"></a>
             </div>
             <!-- HOME PAGE-->
             <div class="home-page">
